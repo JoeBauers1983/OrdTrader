@@ -31,3 +31,25 @@ OrdTrader is a decentralized trading platform for Bitcoin Ordinals. It utilizes 
 - **Bitcoin Node** (testnet for development)
 
 ### Installation
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/yourusername/OrdTrader.git
+   cd OrdTrader
+
+2. **Set Up Virtual Environment:**
+   ```bash
+   python -m venv venv
+   source venv/bin/activate
+
+3. **Install Backend Dependencies:**
+   ```bash
+   pip install -r requirements.txt
+
+4. **Set Up Frontend:**
+   ```bash
+   cd frontend
+   npm install
+   cd ..
+
+### Configuration
